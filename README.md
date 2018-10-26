@@ -10,9 +10,8 @@ For this program to work, you must select the right form of [JAVA SE](https://ww
 3. Open Command Prompt or Terminal and change the directory to the location of the program file.
 4. Through Command Prompt/Terminal, run the program. 
 ## How Does the Program Work?
-1. The program first imports the appropiate library and intializes the variables. These variables are in the form of intergers that represent the number of types of change(i.e. quarters, dimes, nickels), doubles that represent the amount of money the user wants broken down and the amount of change left to be broken down, and a boolean representing whether there is any change left to be broken down. 
-2. The program first takes the user input, divides it by the largest form of change, and then sets that form of change equal to that. It then finds the change that is left over by using the % operator using the value of the current type of change we are looking for.
-
+1. The program first imports the appropiate library and intializes the variables. These variables are in the form of intergers, doubles, and one boolean. The intergers represent the amount of each types of change(i.e. quarters, dimes, nickels).The doubles represent the amount of money the user wants broken down and the amount of change left to be broken down. Finally, the boolean represents whether there is any change left to be broken down. 
+2. The program first takes the user input, divides it by the largest form of change, and then sets that form of change equal to that. It then finds the change that is left over by using the % operator with the intial change and the value of the currency we are looking for.
 For Example:
 ```
 dollars = (int) (userInput / 1); 

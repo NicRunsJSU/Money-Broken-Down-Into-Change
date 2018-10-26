@@ -3,7 +3,7 @@ An assignment for my technical writing class at Jacksonville State University. O
 ## What Does it Do?
 This program takes the user input in the form of a dollar amount (double) and breaks down the money into its change equivelent. The program runs in Command Prompt or Terminal
 ## Prerequisites
-For this program to work, you must select the right form of [JAVA SE](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) for your operating system.
+For this program to work, you must select the right form of [JAVA SE](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) for your operating system and download it.
 ## How To Install
 1. Download the program to your machine. The program should download in the form of a zipfile called Lab2BAttemptTwo.zip.
 2. Decompress the zip file and save it to the location where you would like the program to reside on your machine.

@@ -17,7 +17,7 @@ For Example:
 dollars = (int) (userInput / 1); 
 change = userInput % 1;
 ```
-3. The program then repeats this code for each type of change and it's values, decrementing the amount of change left over using the % operator with the appropiate value. 
+3. The program then repeats this code for each type of currency and it's values, decrementing the amount of change left over using the % operator with the appropiate value. 
 4. When there is no change left over (change == 0), the program sets the stillHasMoney boolean to false. 
 5. The program then prints a line outputting the amount of change that the user input can be broken down into.
 ## Developed Using 
